@@ -1,7 +1,10 @@
 #!/bin/bash
 
 ## Modo "Tela Cheia" no virtualbox ##
-    ##sudo apt install virtualbox-guest-x11 -y##
+    ##sudo apt install virtualbox-guest-x11 -y
+    ##ou
+    ##sudo apt-get install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
+
 
 ## Atualizando o repositório ##
     sudo apt update
